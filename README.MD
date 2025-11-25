@@ -1,4 +1,3 @@
-Of course! Here is the complete README.md file for your Secure Password Manager project, translated into English.
 
 🔑 Secure Password Manager (CLI)
 
